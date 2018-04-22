@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Wanderlusty Worthy Travel Quotes
-date: 2018-04-15 06:44:03 +0800
+title: Wanderlust Worthy Travel Quotes
+date: 2018-04-22 08:44:03 +0800
 categories: travel life
 image:
 - /images/blogposts/20171209/favetravelquotes.jpg
 excerpt:
-Because thinking of insta captions is hard and we all need more wanderlust in our lives.
+  Because thinking of insta captions is hard and we all need more wanderlust in our lives.
 comments: true
 ---
 
