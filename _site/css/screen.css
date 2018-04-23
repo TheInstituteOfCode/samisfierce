@@ -85,6 +85,9 @@ a {
 p a {
   text-decoration: underline; }
 
+.italics {
+  font-style: italic; }
+
 .container {
   max-width: 1100px;
   margin: 0 auto; }
