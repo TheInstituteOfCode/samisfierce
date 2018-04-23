@@ -4,6 +4,7 @@ title: Home
 <section class="posts">
 	{% for post in paginator.posts	 %}
 	<article class="post">
+				{% include post-heading.html post=post %}
 		<a class="" href="{{ post.url }}">
 			<div class="image">
 				<img src="{{ post.image }}" alt="{{ post.title }}">
