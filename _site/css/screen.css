@@ -27,6 +27,9 @@ h3 {
   text-transform: uppercase;
   margin: 0 0 23px 0; }
 
+h4 {
+  margin-bottom: 0; }
+
 p {
   font-family: 'Droid Serif', serif;
   font-size: 15px;
@@ -59,7 +62,7 @@ hr {
   margin: 0 8% 0% 8%; }
 
 a {
-  text-decoration: none;
+  text-decoration: underline;
   color: #000; }
 
 .center {

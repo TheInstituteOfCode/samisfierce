@@ -31,6 +31,10 @@ h3 {
 	margin: 0 0 23px 0;
 }
 
+h4{
+margin-bottom: 0;	
+}
+
 p {
 	font-family: 'Droid Serif', serif;
 	font-size: 15px;
@@ -70,7 +74,7 @@ hr {
 }
 
 a {
-	text-decoration: none;
+	text-decoration: underline;
 	color: #000;
 }
 
