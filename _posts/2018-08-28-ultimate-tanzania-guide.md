@@ -69,3 +69,4 @@ We stayed at <a href="https://www.booking.com/hotel/tz/jafferji-house-amp-spa.en
 Overall, our time in Tanzania was surreal; filled with natural beauty, awe-inspiring wildlife and kind souls. It was a trip that changed me and the way that I think about cultures and our world and I cannot wait to go back.
 <div class="small-space"></div>
 Have you been to Tanzania? I'd love to hear about your experiences in the comments!
+<img src="/images/blogposts/20180608/tanzania_pinterest.jpg">
