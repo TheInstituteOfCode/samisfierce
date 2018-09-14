@@ -64,9 +64,11 @@ We stayed at <a href="https://www.booking.com/hotel/tz/kichanga-lodge.en.html?ai
 <div class="small-space"></div>
 In addition to the beautiful beaches, Zanzibar has an amazing amount of culture and history. Stone Town is a great place to visit to get a taste of the island's past. It's very walkable as long as you don't mind twisting alleyways and a short drive from the airport. While there, definitely buy spices from Darajani Market, have dinner at <a href="http://www.emersonspice.com/tea-house/" target="blank">Emerson Spice Tea House</a>, tour the night market at Forodhani Gardens and take a boat out to the sand bar.
 <h4>Where to stay:</h4>
-We stayed at <a href="https://www.booking.com/hotel/tz/jafferji-house-amp-spa.en.html?aid=1491966&no_rooms=1&group_adults=1" target="blank">Jafferji House</a> and absolutely loved it. It was one of the most unique properties we stayed at and was filled with amazing local artwork and photography.
+We stayed at <a href="https://www.booking.com/hotel/tz/jafferji-house-amp-spa.en.html?aid=1491966&no_rooms=1&group_adults=1" target="blank">Jafferji House</a> and absolu tely loved it. It was one of the most unique properties we stayed at and was filled with amazing local artwork and photography.
 <div class="space"></div>
 Overall, our time in Tanzania was surreal; filled with natural beauty, awe-inspiring wildlife and kind souls. It was a trip that changed me and the way that I think about cultures and our world and I cannot wait to go back.
 <div class="small-space"></div>
 Have you been to Tanzania? I'd love to hear about your experiences in the comments!
 <img src="/images/blogposts/20180608/tanzania_pinterest.jpg">
+
+<a href="https://www.bloglovin.com/blog/19606913/?claim=xuzcd94scd3">Follow my blog with Bloglovin</a>
