@@ -24,7 +24,7 @@ Since we were visiting during shoulder season, I was a bit worried that we’d s
 <img src="/images/blogposts/20180928/loews_doubleroom.jpg">
 <div class="small-space"></div>
 
-<a href="http://loews.io/samisfierce" target="blank">The Loews Miami Beach</a> is a gorgeous hotel in the heart of South Beach. They have an amazing pool, five restaurants (there’s nothing better than ordering cocktails and tacos poolside) and an Exhale Spa (perfect for an early morning yoga detox). When we arrived, the hotel surprised us with a mojito kit and snacks - it was the perfect way to kick off our trip. The Loews Miami Beach has FIVE restaurants and I highly recommend visiting Lure during happy hour - they have dollar oysters and a lot of yummy cocktails for only $8.
+<a href="http://loews.io/samisfierce" target="blank">The Loews Miami Beach</a> is a  gorgeous hotel in the heart of South Beach. They have an amazing pool, five restaurants (there’s nothing better than ordering cocktails and tacos poolside) and an Exhale Spa (perfect for an early morning yoga detox). When we arrived, the hotel surprised us with a mojito kit and snacks - it was the perfect way to kick off our trip. The Loews Miami Beach has FIVE restaurants and I highly recommend visiting Lure during happy hour - they have dollar oysters and a lot of yummy cocktails for only $8.
 <div class="small-space"></div>
 
 <h2>Where We Sunned:</h2>
